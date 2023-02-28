@@ -14,4 +14,5 @@ Not actually the latest and greatest in password generating technologies, would 
 Otherwise no know issues, it works very well.
 
 ### Conclusion
-Visit the webpage with the following url:    and generate your password.
+Visit the webpage with the following url: https://tscarl.github.io/Generate-Password/ 
+Generate your password and feel free and happy with a mind which hopefully has a device which can remember this password for you.
